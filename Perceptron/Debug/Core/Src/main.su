@@ -1,0 +1,4 @@
+../Core/Src/main.c:11:8:guess	48	static
+../Core/Src/main.c:20:8:result	80	static
+../Core/Src/main.c:30:6:generatePerceptron	32	static
+../Core/Src/main.c:39:5:main	56	static
